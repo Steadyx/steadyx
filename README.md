@@ -35,5 +35,3 @@ I'm also on a path to improve my skills in:
 Stay tuned for my upcoming projects and contributions. Feel free to reach out if you are interested in collaborating or discussing tech!
 
 ---
-
-This revised introduction maintains your individuality but in a more professional manner. It's crucial to keep in mind that many potential employers or collaborators will be visiting your Github profile, so keeping it professional will leave a good first impression.
