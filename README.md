@@ -1,30 +1,39 @@
-# Hey there! 👋
+# Hello, world! 👋
 
-### Welcome to my github page, I don't have much in here currently but I'm looking to expand my reach onto other open source projects that I find interesting. 🏄
-
----
-
-Currently, I'm all about mouselss development, I use Neovim as my primary editor and I love finding new plugins that increase efficiancy and producitviy. I hope to contribute to the community very soon. 🚫🖱
+Welcome to my Github page! I'm an enthusiastic open-source contributor, always on the lookout for exciting projects that pique my interest. 
 
 ---
 
-I love learning new things and I always strive to try my absolute hardest and be the best that I can be. 💡
+## About Me
+
+I am passionate about mouseless development, with Neovim as my weapon of choice. I enjoy exploring and integrating new plugins to optimize efficiency and productivity. My goal is to soon contribute back to this community.
+
+I firmly believe in lifelong learning, always pushing my boundaries to become better in what I do. 💡
 
 ---
 
-The technologies I'm familiar with at the moment include the following: 
+## My Expertise
 
-٩ʕ◕౪◕ʔو 🆃🆈🅿🅴🆂🅲🆁🅸🅿🆃/🅹🅰🆅🅰🆂🅲🆁🅸🅿🆃 🎁 😊🎂
+I have hands-on experience with several technologies, including:
 
-✩░▒▓▆▅▃▂▁𝐑𝐞𝐚𝐜𝐭▁▂▃▅▆▓▒░✩
-
-✌𝓥𝓾𝓮✌
-
-(☞ ͡° ͜ʖ ͡°)☞ 𝓝𝓸𝓭𝓮 ♥♥
+- JavaScript/TypeScript 🟨
+- React ⚛️
+- Vue 🟢
+- Node.js 🟩
 
 ---
-Here are some languages that I'm trying to get better at:
 
-▀▄▀▄▀▄Rust▄▀▄▀▄▀
+## Current Learning Journey
 
-∙∙·▫▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼⓅⓨⓣⓗⓞⓝᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫▫·∙∙
+I'm also on a path to improve my skills in:
+
+- Rust 🦀
+- Python 🐍
+
+---
+
+Stay tuned for my upcoming projects and contributions. Feel free to reach out if you are interested in collaborating or discussing tech!
+
+---
+
+This revised introduction maintains your individuality but in a more professional manner. It's crucial to keep in mind that many potential employers or collaborators will be visiting your Github profile, so keeping it professional will leave a good first impression.
